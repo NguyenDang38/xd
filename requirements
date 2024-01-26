@@ -1,0 +1,21 @@
+SE1867-GROUP 3
+Nguyễn Phạm Minh Đăng
+Nguyễn Gia Bảo
+Trần Lê Sĩ Quỳnh
+
+  •	Name of system: eGear
+  •	Purpose of the system:
+    o	Offer a range of products for customers looking for peripherals or computer components
+  •	Who use the system: Users, Shop owner, developers.
+  •	Features:
+    o	User features:
+      -	Log in/register
+      -	Look for a product via search bar
+      -	Purchase a product
+      -	Choose a payment method
+      -	See detailed description of product when clicking on the product
+    o	Shop owner features:
+      -	Have all user features
+      -	Add a product to the website
+      -	Delete a product from the website
+
